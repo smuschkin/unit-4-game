@@ -8,6 +8,10 @@ h1 {
     text-align: center;
 }
 
+body {
+    background-image: url("../images/5.jpg");
+}
+
 .paragraph {
     background-color: bisque;
     width: 555px;
